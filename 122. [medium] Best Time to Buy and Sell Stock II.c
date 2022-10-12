@@ -1,3 +1,4 @@
+// 時間複雜度 O(n)
 int maxProfit(int* prices, int pricesSize){
     int profit = 0;
     int pCount = 0;
